@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 <div style="display: flex; gap: 25px;">
 <a href="https://www.instagram.com/sammy_gdt/">
   <img src="./icons/instagram-brands-solid-3.svg" width="50" />
-</a>
+</a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.facebook.com/profile.php?id=100008204640441">
   <img src="./icons/square-facebook-brands-solid-2.svg" width="50"/>
