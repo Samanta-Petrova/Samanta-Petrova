@@ -34,4 +34,4 @@ Here are some ideas to get you started:
 
 </div>
 
-![Snake animation](https://github.com/Samanta-Petrova/Samanta-Petrova/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Samanta-Petrova/Samanta-Petrova/output/github-contribution-grid-snake.svg)
