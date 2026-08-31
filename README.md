@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently studying web development 
 - 🤔 I’m looking for help with ...
 - 📫 You can find me here: 
-<a href="https://https://www.facebook.com/profile.php?id=100008204640441">
+<a href="https://www.instagram.com/sammy_gdt/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
 - ⚡ Fun fact: ...
