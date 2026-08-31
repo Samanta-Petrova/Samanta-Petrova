@@ -10,10 +10,10 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 ### 📫 You can find me here: 
 <a href="https://www.instagram.com/sammy_gdt/">
-  <img src="./icons/" width="50" />
+  <img src="./icons/instagram-brands-solid-2.svg" width="50" />
 </a>
 
 <a href="https://www.facebook.com/profile.php?id=100008204640441">
-  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/square-facebook.svg" width="50" />
+  <img src="./icons/square-facebook-brands-solid.svg" />
 </a>
 
