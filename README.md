@@ -1,3 +1,7 @@
+![Header](./icons/baggrund2.png)
+
+
+
 # Hello there 👋
 
 <!--
@@ -5,7 +9,7 @@
 
 Here are some ideas to get you started:
 -->
-![Header](./icons/baggrund.svg)
+
 
 ## My name is Samanta 
  I’m currently studying web development 
@@ -37,3 +41,5 @@ Here are some ideas to get you started:
 </div>
 
 ![Snake animation](https://raw.githubusercontent.com/Samanta-Petrova/Samanta-Petrova/output/github-contribution-grid-snake.svg)
+
+![Footer](./icons/baggrund1.png)
