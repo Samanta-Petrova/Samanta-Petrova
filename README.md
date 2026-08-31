@@ -5,6 +5,8 @@
 
 Here are some ideas to get you started:
 -->
+![Header](./icons/baggrund.svg)
+
 ## My name is Samanta 
  I’m currently studying web development 
 ### You can find me here:
