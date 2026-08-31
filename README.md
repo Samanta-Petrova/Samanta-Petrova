@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://https://www.linkedin.com/in/samanta-petrova-873a86220/">
-  <img src="./icons/square-linkedin-brands-solid.svg width="50"/>
+  <img src="./icons/square-linkedin-brands-solid.svg" width="50"/>
 </a>
 
 
