@@ -2,7 +2,7 @@
 
 <!--
 **Samanta-Petrova/Samanta-Petrova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![Snake animation](https://github.com/Samanta-Petrova/Samanta-Petrova/blob/output/github-contribution-grid-snake.svg)
 Here are some ideas to get you started:
 -->
 ## My name is Samanta 
