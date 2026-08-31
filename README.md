@@ -1,4 +1,4 @@
-![Header](./icons/baggrund2.png)
+
 
 
 
@@ -6,7 +6,8 @@
 
 <!--
 **Samanta-Petrova/Samanta-Petrova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![Header](./icons/baggrund2.png)
+![Footer](./icons/baggrund1.png)
 Here are some ideas to get you started:
 -->
 
@@ -42,4 +43,4 @@ Here are some ideas to get you started:
 
 ![Snake animation](https://raw.githubusercontent.com/Samanta-Petrova/Samanta-Petrova/output/github-contribution-grid-snake.svg)
 
-![Footer](./icons/baggrund1.png)
+
