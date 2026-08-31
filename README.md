@@ -14,6 +14,12 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://www.facebook.com/profile.php?id=100008204640441">
-  <img src="./icons/square-facebook-brands-solid.svg" />
+  <img src="./icons/square-facebook-brands-solid.svg" width="50"/>
 </a>
+
+<a href="https://https://www.linkedin.com/in/samanta-petrova-873a86220/">
+  <img src="./icons/square-linkedin-brands-solid.svg width="50"/>
+</a>
+
+
 
