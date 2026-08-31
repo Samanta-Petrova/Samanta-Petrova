@@ -24,14 +24,18 @@ Here are some ideas to get you started:
 
 ## What I can
 <div>
- <ul>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
- </ul>
+<img src="./icons/html5-brands-solid-2.svg" width="50"/>
+ <img src="./icons/css-brands-solid.svg" width="50"/>
+ <img src="./icons/figma-brands-solid.svg" width="50"/>
+<img src="./icons/js-brands-solid.svg" width="50"/>
+
+ <img src="./icons/square-linkedin-brands-solid.svg" width="50"/>
+
+ <img src="./icons/php-brands-solid.svg" width="50"/>
+
+ <img src="./icons/vuejs-brands-solid.svg" width="50"/>
+
+ <img src="./icons/wordpress-brands-solid.svg" width="50"/>
+
 </div>
 
