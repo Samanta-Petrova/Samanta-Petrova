@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 👩 My name is Samanta 
-- 🌱 I’m currently studying web development 
+## 👩 My name is Samanta 
+## 🌱 I’m currently studying web development 
 - 🤔 I’m looking for help with ...
 - 📫 You can find me here: 
 <a href="https://https://www.facebook.com/profile.php?id=100008204640441">
